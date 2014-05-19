@@ -1,0 +1,13 @@
+/** Add css rules here for your application. */
+
+.dockPanel {
+    border-color:orange;
+    border-width:medium;
+    border-style:solid;
+}
+.vertPanel1 {
+    border-color:blue;
+    border-width:5px;
+    border-style:solid;
+}
+
