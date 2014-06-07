@@ -8,6 +8,6 @@ public interface Resources extends ClientBundle {
     Resources INSTANCE = GWT.create(Resources.class);
 
     //@Source("cv.html")
-    //TextResource synchronous();
+    //TextResource cv();
 
 }
